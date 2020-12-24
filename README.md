@@ -1,4 +1,4 @@
-# Light Template
+# Angular Light Template
 
 ## Development server
 
